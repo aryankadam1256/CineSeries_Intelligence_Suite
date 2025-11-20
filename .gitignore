@@ -1,0 +1,7 @@
+the recommendation api is built with the BERT- model being trained with the imdb review dataset which has a loss of arround 0.12 and a significant accuracy , it has no ui styling till yet but will work upon in future
+
+models/
+
+api/__pycache__/
+
+.venv/
